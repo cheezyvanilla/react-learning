@@ -23,7 +23,7 @@ const ToDoApp = () => {
     }
 
     return (
-        <div className="flex flex-col items-center justify-center h-screen">
+        <div className="flex flex-col items-center  h-screen">
             <h1 className="text-lg underline mt-2">ToDo App</h1>
 
             <input
